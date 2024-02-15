@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{font-family:'AdobeSongStd-Light-GBpc-EUC-H';}
+	.st2{font-size:18px;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<ellipse class="st0" cx="132" cy="71.5" rx="92.5" ry="69"/>
+<ellipse class="st0" cx="111.5" cy="83" rx="59" ry="39.5"/>
+<text transform="matrix(1 0 0 1 81.8696 73.7158)" class="st1 st2">A</text>
+<text transform="matrix(1 0 0 1 168.3018 40.9585)" class="st1 st2">B</text>
+<text transform="matrix(1 0 0 1 14.8638 130.8701)" class="st1 st2">或</text>
+<ellipse class="st3" cx="122.5" cy="199.5" rx="96.5" ry="55.5"/>
+<text transform="matrix(1 0 0 1 78.4731 187.6748)" class="st1 st2">A(B)</text>
+</svg>
